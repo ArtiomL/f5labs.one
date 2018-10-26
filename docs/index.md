@@ -19,6 +19,12 @@ curl -sL https://f5labs.one/as3 | bash
 
 ---
 
+## Videos
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Cj5bxtNEdys" frameborder="0" allow="autoplay; encrypted-media"></iframe>
+
+---
+
 ## Repositories
 
 [f5-ansible](https://github.com/ArtiomL/f5-ansible)  
