@@ -43,10 +43,4 @@ Sublime Text package for F5 iRules syntax highlighting and auto-completion
 
 ## Videos
 
-Latest video:
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/vGxng8h8S5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-  
-  
-  
-[More videos](https://www.youtube.com/user/artioml/videos).
+[https://www.youtube.com/user/artioml/videos](https://www.youtube.com/user/artioml/videos)
