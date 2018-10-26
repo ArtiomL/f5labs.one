@@ -19,12 +19,6 @@ curl -sL https://f5labs.one/as3 | bash
 
 ---
 
-## Videos
-
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Cj5bxtNEdys" frameborder="0" allow="autoplay; encrypted-media"></iframe>
-
----
-
 ## Repositories
 
 [f5-ansible](https://github.com/ArtiomL/f5-ansible)  
@@ -44,3 +38,16 @@ F5 control and logging integration with a Slack bot
 
 [sublime-f5-irules](https://github.com/ArtiomL/sublime-f5-irules)  
 Sublime Text package for F5 iRules syntax highlighting and auto-completion
+
+---
+
+## Videos
+
+Latest video:
+
+<iframe src="https://www.youtube.com/embed/vGxng8h8S5s" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+More videos:
+https://www.youtube.com/user/artioml/videos
+
+---
